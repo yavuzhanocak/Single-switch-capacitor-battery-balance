@@ -48,3 +48,20 @@ in the buck position and the battery is charged.
 ## MATLAB / simulink design of general system topology
 
 ![image](https://user-images.githubusercontent.com/62069736/88975403-c9d6b000-d2c2-11ea-8d90-8fed6c763db0.png)
+
+### Simulation Results
+- Module 1 values:%20, %40, %80, %20 SOC for cell 1, 2, 3 and 4 respectively.
+
+There are a total of 4 batteries in 1 module. The simulation time of each battery had
+to be limited to 30 minutes. The total simulation time for 1 Module took 2 hours. This
+is because the batteries need to be balanced individually.
+
+Let’s first look at the SOC comparisons.
+
+![image](https://user-images.githubusercontent.com/62069736/88975836-a2341780-d2c3-11ea-9b31-87b753ffd46c.png)
+
+Comparison of volt values.
+
+![image](https://user-images.githubusercontent.com/62069736/88975883-bb3cc880-d2c3-11ea-9a68-f7a61ae919a0.png)
+
+## Altium designer circuit design
