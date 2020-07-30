@@ -68,4 +68,4 @@ Comparison of volt values.
 
 ![image](https://user-images.githubusercontent.com/62069736/88977675-05737900-d2c7-11ea-8a57-56601f5e194b.png)
 
-![image](https://user-images.githubusercontent.com/62069736/88977956-7c107680-d2c7-11ea-9da3-a275ee716eb7.png)
+![image](https://user-images.githubusercontent.com/62069736/88978680-dbbb5180-d2c8-11ea-924f-f4679fe6e43a.png)
