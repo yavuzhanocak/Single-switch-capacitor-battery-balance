@@ -64,7 +64,7 @@ Comparison of volt values.
 
 ![image](https://user-images.githubusercontent.com/62069736/88975883-bb3cc880-d2c3-11ea-9a68-f7a61ae919a0.png)
 
-## Altium designer circuit design
+## Altium Designer circuit design
 
 ![image](https://user-images.githubusercontent.com/62069736/88977675-05737900-d2c7-11ea-8a57-56601f5e194b.png)
 
