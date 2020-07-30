@@ -21,8 +21,11 @@ both streams.
 -All the switches in the circuit are driven by the PWM signal.
 -Selection of high and low energy batteries after determining the Pwm signal.
 -For the low energy charge charge, 90% is selected as shown.
+
 ![image](https://user-images.githubusercontent.com/62069736/88974835-ea523a80-d2c1-11ea-9774-0499aaf86a1f.png)
+
 -For the discharge of the high energy battery, 10% is selected as shown.
+
 ![image](https://user-images.githubusercontent.com/62069736/88974947-12da3480-d2c2-11ea-868b-a4c636d1e6d2.png)
 
 ### Bidirectional switch structure 
@@ -30,6 +33,7 @@ The structure allows current to flow in both directions. The direction of the
 current is determined according to the voltage differences at the two ends. N-channel
 is a combination of two mosfets. "IRFB3806PBF" can be used as Mosfet. All switches,
 except the converter key in the topology, are bi-directional.
+
 ![image](https://user-images.githubusercontent.com/62069736/88975055-41f0a600-d2c2-11ea-8306-8603dd013a53.png)
 
 ###  Bidirectional converter
@@ -38,7 +42,9 @@ with the information received from the microcontrollers, the switches of the low
 battery are activated and brought to the converter boost position. The opposite of the
 same process, with the activation of the high voltage battery, the converter is placed
 in the buck position and the battery is charged. 
+
 ![image](https://user-images.githubusercontent.com/62069736/88975309-a27fe300-d2c2-11ea-8e7c-bafe34f6f76c.png)
 
 ## MATLAB / simulink design of general system topology
+
 ![image](https://user-images.githubusercontent.com/62069736/88975403-c9d6b000-d2c2-11ea-8d90-8fed6c763db0.png)
