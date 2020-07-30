@@ -13,18 +13,18 @@ With the help of a bi direction converter connected to the SSC system, the batte
 ![image](https://user-images.githubusercontent.com/62069736/88974578-862f7680-d2c1-11ea-8210-d508d9884770.png)
 
 ## General topology explanations
--There are 9 batteries inside each module (n + 5).
--These switches are a structure consisting of 2 N-channel mosfet’s called bi-directional
+- There are 9 batteries inside each module (n + 5).
+- These switches are a structure consisting of 2 N-channel mosfet’s called bi-directional
 structures. This structure is briefly made in a controlled way of current flow in
 both streams.
--Parallel single capacitor to ensure the need for balancing and smoothness.
--All the switches in the circuit are driven by the PWM signal.
--Selection of high and low energy batteries after determining the Pwm signal.
--For the low energy charge charge, 90% is selected as shown.
+- Parallel single capacitor to ensure the need for balancing and smoothness.
+- All the switches in the circuit are driven by the PWM signal.
+- Selection of high and low energy batteries after determining the Pwm signal.
+- For the low energy charge charge, 90% is selected as shown.
 
 ![image](https://user-images.githubusercontent.com/62069736/88974835-ea523a80-d2c1-11ea-9774-0499aaf86a1f.png)
 
--For the discharge of the high energy battery, 10% is selected as shown.
+- For the discharge of the high energy battery, 10% is selected as shown.
 
 ![image](https://user-images.githubusercontent.com/62069736/88974947-12da3480-d2c2-11ea-868b-a4c636d1e6d2.png)
 
