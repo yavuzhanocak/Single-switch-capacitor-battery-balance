@@ -1,5 +1,5 @@
 # Single-switch-capacitor-battery-balance
-## Active balancing system simulink and PCB designer with Altium designer.
+## Active balancing system simulink and circuit designer with Altium Designer.
 
 It uses (n + 5) keys and only 1 capacitor to balancen cells. It is one of the most common charge-shuttling techniques and is also called fly
 capacitor. In this method, the capacitor charges from the cell with the highest voltage and discharges in the cell with the lowest voltage according to the selection. 
