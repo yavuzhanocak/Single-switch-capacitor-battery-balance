@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=Dbg1-1
+Removed Pin From Net: NetName=NetDbg1_2 Pin=Dbg1-2
+Removed Pin From Net: NetName=NetDbg1_3 Pin=Dbg1-3
+Removed Pin From Net: NetName=NetDbg1_3 Pin=micro1-23
+Removed Pin From Net: NetName=NetDbg1_2 Pin=micro1-24
+Removed Member From Class: ClassName=control Member=Dbg1
+Added Component: Designator=*(5 pin header)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC1_2 Pin=*-1
+Added Pin To Net: NetName=NetDbg1_3 Pin=*-2
+Added Pin To Net: NetName=NetDbg1_2 Pin=*-3
+Added Pin To Net: NetName=NetDbg1_2 Pin=micro1-23
+Added Pin To Net: NetName=NetDbg1_3 Pin=micro1-24
+Change Net Name : Old Net Name=NetC1_2 New Net Name=Net*_1
+Change Net Name : Old Net Name=NetDbg1_2 New Net Name=Net*_3
+Change Net Name : Old Net Name=NetDbg1_3 New Net Name=Net*_2
+Added Member To Class: ClassName=control Member=Component * 5 pin header

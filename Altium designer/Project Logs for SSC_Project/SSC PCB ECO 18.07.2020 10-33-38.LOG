@@ -1,0 +1,223 @@
+Removed Pin From Net: NetName=NetM1_1 Pin=M1-1
+Removed Pin From Net: NetName=NetM1_3 Pin=M1-3
+Removed Pin From Net: NetName=NetM1_4 Pin=M1-4
+Removed Pin From Net: NetName=NetM1_1 Pin=M2-1
+Removed Pin From Net: NetName=NetM1_3 Pin=M2-3
+Removed Pin From Net: NetName=NetBattery1_1 Pin=M2-4
+Removed Pin From Net: NetName=NetM3_1 Pin=M3-1
+Removed Pin From Net: NetName=NetM3_3 Pin=M3-3
+Removed Pin From Net: NetName=NetM3_4 Pin=M3-4
+Removed Pin From Net: NetName=NetM3_1 Pin=M4-1
+Removed Pin From Net: NetName=NetM3_3 Pin=M4-3
+Removed Pin From Net: NetName=NetBattery1_2 Pin=M4-4
+Removed Pin From Net: NetName=NetM5_1 Pin=M5-1
+Removed Pin From Net: NetName=NetM5_3 Pin=M5-3
+Removed Pin From Net: NetName=NetM3_4 Pin=M5-4
+Removed Pin From Net: NetName=NetM5_1 Pin=M6-1
+Removed Pin From Net: NetName=NetM5_3 Pin=M6-3
+Removed Pin From Net: NetName=NetBattery3_2 Pin=M6-4
+Removed Pin From Net: NetName=NetM7_1 Pin=M7-1
+Removed Pin From Net: NetName=NetM7_3 Pin=M7-3
+Removed Pin From Net: NetName=NetM1_4 Pin=M7-4
+Removed Pin From Net: NetName=NetM7_1 Pin=M8-1
+Removed Pin From Net: NetName=NetM7_3 Pin=M8-3
+Removed Pin From Net: NetName=NetBattery4_2 Pin=M8-4
+Removed Pin From Net: NetName=NetM9_1 Pin=M9-1
+Removed Pin From Net: NetName=NetM9_3 Pin=M9-3
+Removed Pin From Net: NetName=NetBattery2_2 Pin=M9-4
+Removed Pin From Net: NetName=NetM9_1 Pin=M10-1
+Removed Pin From Net: NetName=NetM9_3 Pin=M10-3
+Removed Pin From Net: NetName=NetM1_4 Pin=M10-4
+Removed Pin From Net: NetName=NetM11_1 Pin=M11-1
+Removed Pin From Net: NetName=NetM11_3 Pin=M11-3
+Removed Pin From Net: NetName=NetM1_4 Pin=M11-4
+Removed Pin From Net: NetName=NetM11_1 Pin=M12-1
+Removed Pin From Net: NetName=NetM11_3 Pin=M12-3
+Removed Pin From Net: NetName=GND Pin=M12-4
+Removed Pin From Net: NetName=NetM13_1 Pin=M13-1
+Removed Pin From Net: NetName=NetM13_3 Pin=M13-3
+Removed Pin From Net: NetName=GND Pin=M13-4
+Removed Pin From Net: NetName=NetM13_1 Pin=M14-1
+Removed Pin From Net: NetName=NetM13_3 Pin=M14-3
+Removed Pin From Net: NetName=NetM3_4 Pin=M14-4
+Removed Pin From Net: NetName=NetM15_1 Pin=M15-1
+Removed Pin From Net: NetName=NetM15_3 Pin=M15-3
+Removed Pin From Net: NetName=NetM3_4 Pin=M15-4
+Removed Pin From Net: NetName=NetM15_1 Pin=M16-1
+Removed Pin From Net: NetName=NetM15_3 Pin=M16-3
+Removed Pin From Net: NetName=NetBÝG CAP_2 Pin=M16-4
+Removed Pin From Net: NetName=NetM17_1 Pin=M17-1
+Removed Pin From Net: NetName=NetM17_3 Pin=M17-3
+Removed Pin From Net: NetName=NetBÝG CAP_2 Pin=M17-4
+Removed Pin From Net: NetName=NetM17_1 Pin=M18-1
+Removed Pin From Net: NetName=NetM17_3 Pin=M18-3
+Removed Pin From Net: NetName=NetM1_4 Pin=M18-4
+Removed Pin From Net: NetName=NetM19_1 Pin=M19-1
+Removed Pin From Net: NetName=NetM19_3 Pin=M19-3
+Removed Pin From Net: NetName=NetBÝG CAP_2 Pin=M19-4
+Removed Pin From Net: NetName=NetM19_1 Pin=M20-1
+Removed Pin From Net: NetName=NetM19_3 Pin=M20-3
+Removed Pin From Net: NetName=NetC26_2 Pin=M20-4
+Removed Pin From Net: NetName=NetM21_1 Pin=M21-1
+Removed Pin From Net: NetName=15 v Pin=M21-3
+Removed Pin From Net: NetName=NetL1_1 Pin=M21-4
+Removed Pin From Net: NetName=NetM22_1 Pin=M22-1
+Removed Pin From Net: NetName=GND Pin=M22-3
+Removed Pin From Net: NetName=NetL1_1 Pin=M22-4
+Removed Pin From Net: NetName=NetM17_1 Pin=OP1-6
+Removed Pin From Net: NetName=NetM15_1 Pin=OP2-6
+Removed Pin From Net: NetName=NetM13_1 Pin=OP3-6
+Removed Pin From Net: NetName=NetM11_1 Pin=OP4-6
+Removed Pin From Net: NetName=NetM1_1 Pin=OP5-6
+Removed Pin From Net: NetName=NetM5_1 Pin=OP7-6
+Removed Pin From Net: NetName=NetM7_1 Pin=OP8-6
+Removed Pin From Net: NetName=NetM9_1 Pin=OP9-6
+Removed Pin From Net: NetName=NetM19_1 Pin=OP10-6
+Removed Pin From Net: NetName=NetM21_1 Pin=OP11-6
+Removed Pin From Net: NetName=NetM22_1 Pin=OP12-6
+Removed Pin From Net: NetName=NetM17_1 Pin=R23-2
+Removed Pin From Net: NetName=NetM15_1 Pin=R27-2
+Removed Pin From Net: NetName=NetM13_1 Pin=R31-2
+Removed Pin From Net: NetName=NetM11_1 Pin=R35-2
+Removed Pin From Net: NetName=NetM1_1 Pin=R39-2
+Removed Pin From Net: NetName=NetM5_1 Pin=R47-2
+Removed Pin From Net: NetName=NetM7_1 Pin=R51-2
+Removed Pin From Net: NetName=NetM9_1 Pin=R54-2
+Removed Pin From Net: NetName=NetM19_1 Pin=R59-2
+Removed Pin From Net: NetName=NetM21_1 Pin=R63-2
+Removed Pin From Net: NetName=NetM22_1 Pin=R67-2
+Change Component Footprint: Designator=M1 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M2 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M3 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M4 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M5 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M6 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M7 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M8 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M9 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M10 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M11 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M12 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M13 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M14 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M15 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M16 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M17 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M18 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M19 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M20 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M21 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Footprint: Designator=M22 Old Footprint=SUD50N06 New Footprint=TO-220
+Change Component Comment : Designator=M1 Old Comment=SUD50N06 1 New Comment=
+Added Pin To Net: NetName=NetM1_4 Pin=M1-D
+Added Pin To Net: NetName=NetM3_1 Pin=M1-G
+Added Pin To Net: NetName=NetM3_3 Pin=M1-S
+Added Pin To Net: NetName=NetBattery1_1 Pin=M2-D
+Added Pin To Net: NetName=NetM3_1 Pin=M2-G
+Added Pin To Net: NetName=NetM3_3 Pin=M2-S
+Added Pin To Net: NetName=NetBÝG CAP_2 Pin=M3-D
+Added Pin To Net: NetName=NetM3_4 Pin=M3-G
+Added Pin To Net: NetName=NetM15_3 Pin=M3-S
+Added Pin To Net: NetName=NetM1_4 Pin=M4-D
+Added Pin To Net: NetName=NetM3_4 Pin=M4-G
+Added Pin To Net: NetName=NetM15_3 Pin=M4-S
+Added Pin To Net: NetName=NetM17_1 Pin=M5-D
+Added Pin To Net: NetName=NetM5_1 Pin=M5-G
+Added Pin To Net: NetName=NetM5_3 Pin=M5-S
+Added Pin To Net: NetName=NetBattery1_2 Pin=M6-D
+Added Pin To Net: NetName=NetM5_1 Pin=M6-G
+Added Pin To Net: NetName=NetM5_3 Pin=M6-S
+Added Pin To Net: NetName=NetM17_1 Pin=M7-D
+Added Pin To Net: NetName=NetM7_1 Pin=M7-G
+Added Pin To Net: NetName=NetM17_3 Pin=M7-S
+Added Pin To Net: NetName=NetBattery3_2 Pin=M8-D
+Added Pin To Net: NetName=NetM7_1 Pin=M8-G
+Added Pin To Net: NetName=NetM17_3 Pin=M8-S
+Added Pin To Net: NetName=NetM1_4 Pin=M9-D
+Added Pin To Net: NetName=NetM7_3 Pin=M9-G
+Added Pin To Net: NetName=NetM1_1 Pin=M9-S
+Added Pin To Net: NetName=NetBattery4_2 Pin=M10-D
+Added Pin To Net: NetName=NetM7_3 Pin=M10-G
+Added Pin To Net: NetName=NetM1_1 Pin=M10-S
+Added Pin To Net: NetName=NetM1_4 Pin=M11-D
+Added Pin To Net: NetName=NetM9_1 Pin=M11-G
+Added Pin To Net: NetName=NetM19_1 Pin=M11-S
+Added Pin To Net: NetName=GND Pin=M12-D
+Added Pin To Net: NetName=NetM9_1 Pin=M12-G
+Added Pin To Net: NetName=NetM19_1 Pin=M12-S
+Added Pin To Net: NetName=GND Pin=M13-D
+Added Pin To Net: NetName=NetM9_3 Pin=M13-G
+Added Pin To Net: NetName=NetM19_3 Pin=M13-S
+Added Pin To Net: NetName=NetM17_1 Pin=M14-D
+Added Pin To Net: NetName=NetM9_3 Pin=M14-G
+Added Pin To Net: NetName=NetM19_3 Pin=M14-S
+Added Pin To Net: NetName=NetM17_1 Pin=M15-D
+Added Pin To Net: NetName=NetM11_1 Pin=M15-G
+Added Pin To Net: NetName=NetM11_3 Pin=M15-S
+Added Pin To Net: NetName=NetBÝG CAP_2 Pin=M16-D
+Added Pin To Net: NetName=NetM11_1 Pin=M16-G
+Added Pin To Net: NetName=NetM11_3 Pin=M16-S
+Added Pin To Net: NetName=NetBattery2_2 Pin=M17-D
+Added Pin To Net: NetName=NetM13_1 Pin=M17-G
+Added Pin To Net: NetName=NetM13_3 Pin=M17-S
+Added Pin To Net: NetName=NetM1_4 Pin=M18-D
+Added Pin To Net: NetName=NetM13_1 Pin=M18-G
+Added Pin To Net: NetName=NetM13_3 Pin=M18-S
+Added Pin To Net: NetName=NetBÝG CAP_2 Pin=M19-D
+Added Pin To Net: NetName=NetM21_1 Pin=M19-G
+Added Pin To Net: NetName=NetM22_1 Pin=M19-S
+Added Pin To Net: NetName=NetC26_2 Pin=M20-D
+Added Pin To Net: NetName=NetM21_1 Pin=M20-G
+Added Pin To Net: NetName=NetM22_1 Pin=M20-S
+Added Pin To Net: NetName=NetL1_1 Pin=M21-D
+Added Pin To Net: NetName=NetM1_3 Pin=M21-G
+Added Pin To Net: NetName=GND Pin=M21-S
+Added Pin To Net: NetName=NetL1_1 Pin=M22-D
+Added Pin To Net: NetName=NetM15_1 Pin=M22-G
+Added Pin To Net: NetName=15 v Pin=M22-S
+Added Pin To Net: NetName=NetM7_1 Pin=OP1-6
+Added Pin To Net: NetName=NetM5_1 Pin=OP2-6
+Added Pin To Net: NetName=NetM11_1 Pin=OP3-6
+Added Pin To Net: NetName=NetM3_4 Pin=OP4-6
+Added Pin To Net: NetName=NetM13_1 Pin=OP5-6
+Added Pin To Net: NetName=NetM7_3 Pin=OP7-6
+Added Pin To Net: NetName=NetM9_1 Pin=OP8-6
+Added Pin To Net: NetName=NetM9_3 Pin=OP9-6
+Added Pin To Net: NetName=NetM21_1 Pin=OP10-6
+Added Pin To Net: NetName=NetM1_3 Pin=OP11-6
+Added Pin To Net: NetName=NetM15_1 Pin=OP12-6
+Added Pin To Net: NetName=NetM7_1 Pin=R23-2
+Added Pin To Net: NetName=NetM5_1 Pin=R27-2
+Added Pin To Net: NetName=NetM11_1 Pin=R31-2
+Added Pin To Net: NetName=NetM3_4 Pin=R35-2
+Added Pin To Net: NetName=NetM13_1 Pin=R39-2
+Added Pin To Net: NetName=NetM7_3 Pin=R47-2
+Added Pin To Net: NetName=NetM9_1 Pin=R51-2
+Added Pin To Net: NetName=NetM9_3 Pin=R54-2
+Added Pin To Net: NetName=NetM21_1 Pin=R59-2
+Added Pin To Net: NetName=NetM1_3 Pin=R63-2
+Added Pin To Net: NetName=NetM15_1 Pin=R67-2
+Change Net Name : Old Net Name=NetM1_1 New Net Name=NetM9_S
+Change Net Name : Old Net Name=NetM1_3 New Net Name=NetM21_G
+Change Net Name : Old Net Name=NetM1_4 New Net Name=NetM1_D
+Change Net Name : Old Net Name=NetM3_1 New Net Name=NetM1_G
+Change Net Name : Old Net Name=NetM3_3 New Net Name=NetM1_S
+Change Net Name : Old Net Name=NetM3_4 New Net Name=NetM3_G
+Change Net Name : Old Net Name=NetM5_1 New Net Name=NetM5_G
+Change Net Name : Old Net Name=NetM5_3 New Net Name=NetM5_S
+Change Net Name : Old Net Name=NetM7_1 New Net Name=NetM7_G
+Change Net Name : Old Net Name=NetM7_3 New Net Name=NetM9_G
+Change Net Name : Old Net Name=NetM9_1 New Net Name=NetM11_G
+Change Net Name : Old Net Name=NetM9_3 New Net Name=NetM13_G
+Change Net Name : Old Net Name=NetM11_1 New Net Name=NetM15_G
+Change Net Name : Old Net Name=NetM11_3 New Net Name=NetM15_S
+Change Net Name : Old Net Name=NetM13_1 New Net Name=NetM17_G
+Change Net Name : Old Net Name=NetM13_3 New Net Name=NetM17_S
+Change Net Name : Old Net Name=NetM15_1 New Net Name=NetM22_G
+Change Net Name : Old Net Name=NetM15_3 New Net Name=NetM3_S
+Change Net Name : Old Net Name=NetM17_1 New Net Name=NetM5_D
+Change Net Name : Old Net Name=NetM17_3 New Net Name=NetM7_S
+Change Net Name : Old Net Name=NetM19_1 New Net Name=NetM11_S
+Change Net Name : Old Net Name=NetM19_3 New Net Name=NetM13_S
+Change Net Name : Old Net Name=NetM21_1 New Net Name=NetM19_G
+Change Net Name : Old Net Name=NetM22_1 New Net Name=NetM19_S

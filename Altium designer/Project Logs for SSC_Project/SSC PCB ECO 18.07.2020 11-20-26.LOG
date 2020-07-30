@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetBattery3_2 Pin=C14-1
+Removed Pin From Net: NetName=NetBattery2_2 Pin=C15-2
+Removed Pin From Net: NetName=NetBattery3_2 Pin=R15-1
+Removed Pin From Net: NetName=NetBattery2_2 Pin=R18-2
+Added Pin To Net: NetName=NetBattery4_2 Pin=C14-1
+Added Pin To Net: NetName=NetBattery3_2 Pin=C15-2
+Added Pin To Net: NetName=NetBattery4_2 Pin=R15-1
+Added Pin To Net: NetName=NetBattery3_2 Pin=R18-2
+Added Room: Name=control1
+Added Room: Name=control2
